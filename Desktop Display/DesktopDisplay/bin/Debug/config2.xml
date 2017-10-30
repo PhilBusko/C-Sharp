@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DisplayConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImageDir>C:\Users\CFB\Pictures\Fiction</ImageDir>
+  <ClockPeriod>3</ClockPeriod>
+  <Margin>
+    <All>0</All>
+    <Bottom>0</Bottom>
+    <Left>0</Left>
+    <Right>0</Right>
+    <Top>0</Top>
+  </Margin>
+</DisplayConfig>

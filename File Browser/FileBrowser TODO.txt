@@ -1,0 +1,33 @@
+
+---------------------------------------------------------------------------------------------------
+TODO
+
+
+replace file name
+- allow to paste folder in UI, implement ontextchange event
+- remove .db files
+
+create entry sort file name
+- have create all files to "temp <id000>" first, avoid copying over existing files with already sorted name
+
+
+file standardizer
+- when it reports to GUI, have it report a bunch of files at the same time
+- aggregate by either all like file names or every 12
+- this should also speed it up
+
+
+
+mp3 tag album cover associator
+- create this control
+
+
+---------------------------------------------------------------------------------------------------
+
+
+NOTES:
+
+File Standardizor
+- remove gif converter, since they can be multipage
+- run often on movies folder to trim movie names
+- to run, make sure png files have a .png extension 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileBrowser">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser.sln">
+</Property><Property Name="Date" Value="Monday, January 02, 2012">
+</Property><Property Name="Time" Value="12:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="FileBrowser" Source="FileBrowser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileBrowser" Source="FileBrowser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\Common\Common\Common.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Common" Source="..\Common\Common\Common.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="FileBrowser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileBrowser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileBrowser" Source="FileBrowser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

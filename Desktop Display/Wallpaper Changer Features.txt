@@ -1,0 +1,17 @@
+WALLPAPER CHANGER
+
+DESIRED FEATURES
+
+- use random image from any sub-folder inside a folder (DisplayFusion, UltraMon, Wallpaper Manager, fail)
+- start with Windows
+- can use keyboard shortcut to go to next image (some apps can do this) [I didn't manage this, put functionality in system tray icon instead]
+- switch image on a timer
+- saves user data
+- quick to get file name of current display image (DisplayFusion, Active Multi Change fail)
+- use different folder for different monitor (UltraMon, Wallpaper Manager fail)
+- can go to previous images (DisplayFusion fails)
+
+- multi-monitor support, different images (Active Multi Change fails)
+- can set wallpaper margins (Active Multi Change fails)
+
+Tried: DisplayFusion, Active Multi Changer, UltraMon, Wallpaper Manager, BioniX

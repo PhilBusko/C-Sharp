@@ -1,0 +1,8 @@
+
+
+- file sorting for poorly named file list is not implemented
+
+- implement animated gif viewer
+
+- implement full screen view
+

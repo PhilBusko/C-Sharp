@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileBrowser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DocFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\CFBComp\</Value>
+    </Setting>
+    <Setting Name="LastInputFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\CFBComp\Pictures</Value>
+    </Setting>
+    <Setting Name="MusicCoverPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\CFB\Music\$ xtras\Album Art</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

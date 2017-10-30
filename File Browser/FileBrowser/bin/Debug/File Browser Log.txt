@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+Log Open: 10/23/2017, 12:32 AM
+--------------------------------------------------------------------------------
+C:\Users\CFB\Pictures\Fiction\$ sort
+C:\Users\CFB\Pictures\Fiction\$ sort\$ marvel
+C:\Users\CFB\Pictures\Fiction\$ sort\Majentta
+C:\Users\CFB\Pictures\Fiction\$ sort
+C:\Users\CFB\Pictures\Fiction\$ sort\$ marvel
+C:\Users\CFB\Pictures\Fiction\$ sort\Majentta
+
+END LOG

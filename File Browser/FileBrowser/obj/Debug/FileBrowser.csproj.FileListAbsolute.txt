@@ -1,0 +1,121 @@
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.ChangeFilesText.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.dll
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\bin\Debug\WindowsBase.dll
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.MainChoiceCtrl.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.PrependFileNameCtrl.resources
+C:\Documents and Settings\HP_Administrator\My Documents\My Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SortedFileNamesCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.dll
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.pdb
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.MainChoiceCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.PrependFileNameCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SortedFileNamesCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SetFileSortProperty.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\ImageProcessor.dll
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\ImageProcessor.pdb
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.ReplaceFileNames.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FileStandardizorCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.EntrySortCtrl.resources
+C:\Users\CFB\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.DiceProfilerCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.dll
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\ImageProcessor.dll
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\Common.pdb
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\bin\Debug\ImageProcessor.pdb
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.DiceProfilerCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.EntrySortCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.ReplaceFileNames.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FileStandardizorCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.MainChoiceCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.PrependFileNameCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SetFileSortProperty.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SortedFileNamesCtrl.resources
+C:\Users\pbusko\Documents\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.DiceProfilerCtrl.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.EntrySortCtrl.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.ReplaceFileNames.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FileStandardizorCtrl.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.MainSelector.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SortFileNames.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SetFilesProperty.resources
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\Utility.dll
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\Utility.pdb
+C:\Users\CFBComp\My Files\My Code\File Browser\FileBrowser\bin\Debug\UltraID3Lib.dll
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\Utility.dll
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\UltraID3Lib.dll
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\bin\Debug\Utility.pdb
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.DiceProfilerCtrl.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.EntrySortCtrl.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.ReplaceFileNames.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FileStandardizorCtrl.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.MainSelector.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SetFilesProperty.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.SortFileNames.resources
+C:\Users\CFB\My Files\My Code\File Browser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.BaseForm.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.EntrySortCtrl.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.ReplaceFileNames.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.FileStandardizorCtrl.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.FolderBrowser.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.MainSelector.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.SetFilesProperty.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.SortFileNames.resources
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\Utility.dll
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\UltraID3Lib.dll
+C:\Users\CFB\My Files\Code\My C#\File Browser\FileBrowser\bin\Debug\Utility.pdb

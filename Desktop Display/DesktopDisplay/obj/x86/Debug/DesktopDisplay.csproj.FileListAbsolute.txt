@@ -1,0 +1,20 @@
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\bin\Debug\DesktopDisplay.exe
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\bin\Debug\DesktopDisplay.pdb
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\obj\x86\Debug\DesktopDisplay.Properties.Resources.resources
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\obj\x86\Debug\DesktopDisplay.csproj.GenerateResource.Cache
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\obj\x86\Debug\DesktopDisplay.exe
+C:\Users\CFB\AppData\Local\Temporary Projects\DesktopDisplay\obj\x86\Debug\DesktopDisplay.pdb
+C:\Users\CFB\My Files\Code\My C#\DesktopDisplay\DesktopDisplay\obj\x86\Debug\DesktopDisplay.exe
+C:\Users\CFB\My Files\Code\My C#\DesktopDisplay\DesktopDisplay\obj\x86\Debug\DesktopDisplay.pdb
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.exe
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.pdb
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.csprojResolveAssemblyReference.cache
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.Properties.Resources.resources
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.csproj.GenerateResource.Cache
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.DisplayCtrl.resources
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\obj\x86\Debug\DesktopDisplay.ChangerForm.resources
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\bin\Debug\DesktopDisplay.exe
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\bin\Debug\DesktopDisplay.pdb
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\bin\Debug\Utility.dll
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\bin\Debug\UltraID3Lib.dll
+C:\Users\CFB\My Files\Code\My C#\Desktop Display\DesktopDisplay\bin\Debug\Utility.pdb
